@@ -15,7 +15,9 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@suni/shared/ui": ["libs/shared/ui/src/index.ts"]
+      "@nx-nextjs-tailwindcss-template/shared/ui": [
+        "libs/shared/ui/src/index.ts"
+      ]
     }
   },
   "exclude": ["node_modules", "tmp"]

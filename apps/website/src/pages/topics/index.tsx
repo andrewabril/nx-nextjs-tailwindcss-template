@@ -1,4 +1,4 @@
-import { TopicButton } from '@suni/shared/ui';
+import { TopicButton } from '@nx-nextjs-tailwindcss-template/shared/ui';
 
 /* eslint-disable-next-line */
 export interface TopicsProps {}
